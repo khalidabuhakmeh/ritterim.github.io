@@ -23,6 +23,11 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "markdown-proofing": "latest",
-    "shelljs": "^0.7.0"
+    "shelljs": "^0.7.0",
+    "gulp" : "^3.9.1",
+    "file-exists" : "^2.0.0",
+    "fluent-ffmpeg": "^2.1.0",
+    "gulp-ignore" : "^2.0.2",
+    "gulp-fluent-ffmpeg": "1.0.2"
   }
 }
